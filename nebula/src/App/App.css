@@ -1,0 +1,18 @@
+:root {
+    --header-color: #8FE5FF;
+    --header-link-hover: #D7F561;
+    --essential-p: #2EBBE5;
+    --essential-p-span: #9EB540;
+    background: linear-gradient(246.24deg, #00094D 0%, #000424 100%);
+}
+
+.Container {
+    height: 100%;
+    font-family: 'Poppins', sans-serif;
+    margin: 0 150px;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 150px auto;
+    align-items: center;
+    margin-bottom: 100px;
+}
